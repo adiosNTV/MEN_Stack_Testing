@@ -1,2 +1,2 @@
 # MEN_Stack_Testing
-Why i call this is a MEN stack. Because it base on MERN stack but i'm too lazy :D to create UI by React so it's missing R
+Why do I call this a MEN stack? It is based on MERN stack but I'm too lazy :D to create UI by React so it's missing R
